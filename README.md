@@ -2,4 +2,4 @@
 
 Open .lpkx layer files in ArcGIS Pro.
 
-The entire written report, with map layouts, is also viewable in the pdf document
+The entire written report, with map layouts, is also viewable in the pdf document.
